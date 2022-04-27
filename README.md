@@ -5,7 +5,7 @@ This is a simple Hello World program. I created it to demonstrate the use of Vis
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+Click on the following link to watch a simple python program with visual Studio: [Hello World in Visual Studio Code using Python](https://www.youtube.com/watch?v=v_aOwgRwsvA)
 
 # Development Environment
 
